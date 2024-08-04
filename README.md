@@ -1,1 +1,1 @@
- https://sampeterberg.github.io/Practicing-HTML-1
+ https://sampeterberg.github.io/Practicing-HTML-1/
